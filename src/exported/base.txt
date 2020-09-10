@@ -1,0 +1,10 @@
+Ivan, Mercedes, C-klass, 1999, 2.2, diesel
+Alex, BMW, 3-series, 2000, 2.5, petrol
+Max, Audi, A4, 1998, 1.8, petrol
+Ivan, Dodge, Caravan, 2007, 3.5, petrol
+Hanna, Mini, Cooper, 2012, 1.6, petrol
+Marta, Toyota, Avensis, 2016, 2.0, diesel
+Max, Audi, A8, 2010, 4.2, petrol
+Jane, BMW, 5 series, 2004, 3.0, diesel
+Mike, Audi, A6, 2007, 3.0, diesel
+Hanna, Toyota, Land Cruiser, 2015, 4.5, petrol
